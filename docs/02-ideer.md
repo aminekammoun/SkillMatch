@@ -1,0 +1,1 @@
+« SkillMatch propose une analyse comparative CV/offres d'emploi à destination des étudiants et jeunes diplômés pour identifier les compétences manquantes et recommander des pistes de progression, contrairement aux sites de recherche d'emploi traditionnels (LinkedIn, Indeed) qui se contentent de lister les offres sans expliquer les refus. »
