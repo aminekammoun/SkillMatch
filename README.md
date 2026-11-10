@@ -25,10 +25,10 @@
 -   Approche :   Méthode agile (type Scrum allégé) combinée à la méthodologie   CRISP-DM   pour la brique analytique. L'incertitude résidant dans la qualité de l'extraction des données non structurées (CVs), une démarche itérative par phases s'impose.
 
    6. Jalons clés
-1. Cadrage et définition du besoin (Parties 1 à 3)
-2. Modélisation et choix de l'architecture data (Partie 4 / CRISP-DM)
-3. Spécification du MVP et User Stories (Partie 5)
-4. Finalisation du dépôt GitHub et génération du Deck PDF (Partie 6)
+- Cadrage et définition du besoin (Parties 1 à 3)
+- Modélisation et choix de l'architecture data (Partie 4 / CRISP-DM)
+- Spécification du MVP et User Stories (Partie 5)
+- Finalisation du dépôt GitHub et génération du Deck PDF (Partie 6)
 
      Arbitrage du Triangle d'Or
 En cas de contrainte majeure, nous sacrifions le   délai   sur les fonctionnalités secondaires, en préservant en priorité la   qualité   de l'algorithme de matching et la   cohérence   de la proposition de valeur.
