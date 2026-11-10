@@ -7,13 +7,13 @@ Rechercher des offres d'emploi sur plusieurs plateformes.
 
 Identifier pourquoi un profil est rejeté.
 
-Frustrations (Pains) — [?] = Hypothèse à valider :
+Frustrations  = Hypothèse à valider :
 
-Manque de visibilité sur l'adéquation réelle de son profil face aux exigences du marché. [?]
+Manque de visibilité sur l'adéquation réelle de son profil face aux exigences du marché. 
 
 Sentiment de perdre du temps à postuler à des offres inadéquates.
 
-Difficulté à savoir quelle compétence technique ou outil apprendre en priorité. [?]
+Difficulté à savoir quelle compétence technique ou outil apprendre en priorité. 
 
 Gains (Gains) :
 
