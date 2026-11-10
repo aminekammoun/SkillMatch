@@ -37,3 +37,14 @@ Forme d'utilisation : Application web interactive (Frontend React, Backend FastA
 
 
 Maintenance : Assurée par l'équipe projet (mise à jour du référentiel de compétences et des offres de test).
+
+
+Obligations RGPD :
+
+Finalité : Aide à l'orientation professionnelle et analyse de compétences.
+
+Base légale : Consentement explicite de l'utilisateur lors de l'importation de son CV.
+
+Durée de conservation : Suppression immédiate des fichiers après traitement en session (pas de stockage persistant des données personnelles nominatives).
+
+
